@@ -4,7 +4,7 @@ public class Test {
 
     public void tes(){
         System.out.println("111111111111");
-        System.out.pringtln("");
+        System.out.println("");
 
     }
 
