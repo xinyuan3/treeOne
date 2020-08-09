@@ -2,6 +2,8 @@ package com.example.demo2;
 
 public class Test {
 
-    public void tes(){}
+    public void tes(){
+     System.out.pringtln("");
+}
 
 }
